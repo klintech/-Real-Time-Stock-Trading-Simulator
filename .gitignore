@@ -1,0 +1,8 @@
+*.class
+bin/
+trades.csv
+trades.dat
+.idea/
+*.iml
+.vscode/
+.DS_Store
